@@ -1,1 +1,1 @@
-# Emplayee-Managament-System-Using-Tkinter-GUI
+# Employee-Management-System-Using-Python-Tkinter-GUI
